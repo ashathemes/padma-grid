@@ -32,14 +32,6 @@ Padma Grid is distributed under the terms of the GNU GPL
 
 == Images Screenshot ==
 
-https://pxhere.com/en/photo/6910
-https://pxhere.com/en/photo/723648
-https://pxhere.com/en/photo/1448921
-https://pxhere.com/en/photo/710553
-https://pxhere.com/en/photo/568782
-
-https://pxhere.com/en/photo/759441
-
 * Theme Screenshot image , self created
 License: CC0 1.0 Universal (CC0 1.0)
 
